@@ -7,5 +7,10 @@
 # robot
 
 ## Flying
+
+### 3d cartoon
 - https://www.freepik.com/premium-ai-image/3d-cartoon-character-frieza-final-form_350307284.htm#fromView=search&page=1&position=5&uuid=5420a5c6-3a65-41da-9ad4-83e24a1ca242
 - https://www.freepik.com/premium-ai-image/3d-cartoon-character-frieza-final-form_350306843.htm#fromView=search&page=1&position=20&uuid=5420a5c6-3a65-41da-9ad4-83e24a1ca242
+
+### insect
+- https://www.freepik.com/premium-ai-image/ethereal-synthwave-bioluminescent-creature-futuristic-digital-art_197638235.htm#fromView=search&page=6&position=18&uuid=5420a5c6-3a65-41da-9ad4-83e24a1ca242
